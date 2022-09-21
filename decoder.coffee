@@ -100,9 +100,9 @@ decoder = (buf) ->
             record.components = switch colorSpace
                 when 'LAB'
                     record.components = [
-                        Math.round((raw[0] / 2.55)*10)/10   # 0% thru 100%, rounded to 1 decimal
-                        raw[1] - 128                        # -128 thru 127
-                        raw[2] - 128                        # -128 thru 127
+                        Math.round(raw[0] / 2.55)   # 0% thru 100%, rounded
+                        raw[1] - 128                # -128 thru 127
+                        raw[2] - 128                # -128 thru 127
                     ]
                 when 'CMYK'
                     record.components = [
