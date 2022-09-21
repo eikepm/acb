@@ -75,7 +75,7 @@ decoder = (buf) ->
             when 'CMYK' then 4
             when 'Grayscale' then 1
             else 3
-        records = {}
+        records = []
 
         for i in [0...colorCount]
             colorName = extractValue readString()
@@ -100,21 +100,21 @@ decoder = (buf) ->
             record.components = switch colorSpace
                 when 'LAB'
                     record.components = [
-                        raw[0] / 2.55            # 0% thru 100%
-                        raw[1] - 128             # -128 thru 127
-                        raw[2] - 128             # -128 thru 127
+                        Math.round((raw[0] / 2.55)*10)/10   # 0% thru 100%, rounded to 1 decimal
+                        raw[1] - 128                        # -128 thru 127
+                        raw[2] - 128                        # -128 thru 127
                     ]
                 when 'CMYK'
                     record.components = [
-                        (255 - raw[0]) / 2.55    # 0% thru 100%
-                        (255 - raw[1]) / 2.55    # 0% thru 100%
-                        (255 - raw[2]) / 2.55    # 0% thru 100%
-                        (255 - raw[3]) / 2.55    # 0% thru 100%
+                        Math.round((255 - raw[0]) / 2.55)    # 0% thru 100%, rounded
+                        Math.round((255 - raw[1]) / 2.55)    # 0% thru 100%, rounded
+                        Math.round((255 - raw[2]) / 2.55)    # 0% thru 100%, rounded
+                        Math.round((255 - raw[3]) / 2.55)    # 0% thru 100%, rounded
                     ]
                 when 'RGB'
                     record.components = [ raw[0], raw[1], raw[2] ]
 
-            records[record.name] = record
+            records[i] = record
 
         spotIdentifier = SpotProcessIdentifier readChars(8)
 
