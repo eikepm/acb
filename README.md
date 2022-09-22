@@ -7,7 +7,7 @@ npm i
 coffee index.coffee
 ```
 
-That will convert all stocked `.acb` files into `converted/*.json`. Create the folder 'converted' first before you run index.coffee.
+That will convert all stocked `.acb` files into `converted/*.json`. Create the folder `converted` first before you run index.coffee.
 
 ## `.acb` file format
 
