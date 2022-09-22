@@ -1,0 +1,785 @@
+{
+  "version": 1,
+  "title": "HKS N Process",
+  "prefix": "HKS ",
+  "colorCount": 86,
+  "colorSpace": "CMYK",
+  "channels": 4,
+  "isSpot": false,
+  "records": [
+    {
+      "name": "HKS 01 N",
+      "components": [
+        0,
+        5,
+        60,
+        0
+      ]
+    },
+    {
+      "name": "HKS 02 N",
+      "components": [
+        2,
+        0,
+        100,
+        0
+      ]
+    },
+    {
+      "name": "HKS 03 N",
+      "components": [
+        0,
+        0,
+        100,
+        0
+      ]
+    },
+    {
+      "name": "HKS 04 N",
+      "components": [
+        0,
+        10,
+        100,
+        0
+      ]
+    },
+    {
+      "name": "HKS 05 N",
+      "components": [
+        0,
+        15,
+        100,
+        0
+      ]
+    },
+    {
+      "name": "HKS 06 N",
+      "components": [
+        0,
+        30,
+        100,
+        0
+      ]
+    },
+    {
+      "name": "HKS 07 N",
+      "components": [
+        0,
+        45,
+        100,
+        0
+      ]
+    },
+    {
+      "name": "HKS 08 N",
+      "components": [
+        0,
+        50,
+        100,
+        0
+      ]
+    },
+    {
+      "name": "HKS 10 N",
+      "components": [
+        0,
+        70,
+        90,
+        0
+      ]
+    },
+    {
+      "name": "HKS 11 N",
+      "components": [
+        0,
+        30,
+        35,
+        0
+      ]
+    },
+    {
+      "name": "HKS 12 N",
+      "components": [
+        0,
+        60,
+        70,
+        0
+      ]
+    },
+    {
+      "name": "HKS 13 N",
+      "components": [
+        0,
+        90,
+        80,
+        0
+      ]
+    },
+    {
+      "name": "HKS 14 N",
+      "components": [
+        0,
+        75,
+        70,
+        0
+      ]
+    },
+    {
+      "name": "HKS 15 N",
+      "components": [
+        5,
+        85,
+        70,
+        0
+      ]
+    },
+    {
+      "name": "HKS 16 N",
+      "components": [
+        10,
+        100,
+        80,
+        0
+      ]
+    },
+    {
+      "name": "HKS 17 N",
+      "components": [
+        10,
+        100,
+        60,
+        0
+      ]
+    },
+    {
+      "name": "HKS 18 N",
+      "components": [
+        35,
+        100,
+        60,
+        0
+      ]
+    },
+    {
+      "name": "HKS 21 N",
+      "components": [
+        0,
+        60,
+        15,
+        0
+      ]
+    },
+    {
+      "name": "HKS 22 N",
+      "components": [
+        0,
+        100,
+        80,
+        0
+      ]
+    },
+    {
+      "name": "HKS 23 N",
+      "components": [
+        0,
+        100,
+        70,
+        0
+      ]
+    },
+    {
+      "name": "HKS 24 N",
+      "components": [
+        0,
+        100,
+        30,
+        0
+      ]
+    },
+    {
+      "name": "HKS 25 N",
+      "components": [
+        0,
+        100,
+        25,
+        0
+      ]
+    },
+    {
+      "name": "HKS 26 N",
+      "components": [
+        5,
+        100,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "HKS 27 N",
+      "components": [
+        3,
+        100,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "HKS 28 N",
+      "components": [
+        10,
+        100,
+        15,
+        0
+      ]
+    },
+    {
+      "name": "HKS 29 N",
+      "components": [
+        35,
+        100,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "HKS 31 N",
+      "components": [
+        10,
+        95,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "HKS 32 N",
+      "components": [
+        5,
+        100,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "HKS 33 N",
+      "components": [
+        40,
+        100,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "HKS 34 N",
+      "components": [
+        60,
+        90,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "HKS 35 N",
+      "components": [
+        80,
+        80,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "HKS 36 N",
+      "components": [
+        60,
+        80,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "HKS 37 N",
+      "components": [
+        70,
+        90,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "HKS 38 N",
+      "components": [
+        90,
+        50,
+        15,
+        30
+      ]
+    },
+    {
+      "name": "HKS 39 N",
+      "components": [
+        100,
+        40,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "HKS 40 N",
+      "components": [
+        80,
+        7,
+        3,
+        0
+      ]
+    },
+    {
+      "name": "HKS 41 N",
+      "components": [
+        90,
+        60,
+        10,
+        30
+      ]
+    },
+    {
+      "name": "HKS 42 N",
+      "components": [
+        90,
+        55,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "HKS 43 N",
+      "components": [
+        100,
+        50,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "HKS 44 N",
+      "components": [
+        100,
+        30,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "HKS 45 N",
+      "components": [
+        90,
+        70,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "HKS 46 N",
+      "components": [
+        90,
+        20,
+        5,
+        0
+      ]
+    },
+    {
+      "name": "HKS 47 N",
+      "components": [
+        100,
+        3,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "HKS 48 N",
+      "components": [
+        100,
+        0,
+        5,
+        0
+      ]
+    },
+    {
+      "name": "HKS 49 N",
+      "components": [
+        100,
+        0,
+        8,
+        0
+      ]
+    },
+    {
+      "name": "HKS 50 N",
+      "components": [
+        50,
+        0,
+        10,
+        0
+      ]
+    },
+    {
+      "name": "HKS 51 N",
+      "components": [
+        100,
+        0,
+        30,
+        0
+      ]
+    },
+    {
+      "name": "HKS 52 N",
+      "components": [
+        100,
+        0,
+        45,
+        0
+      ]
+    },
+    {
+      "name": "HKS 53 N",
+      "components": [
+        80,
+        0,
+        45,
+        0
+      ]
+    },
+    {
+      "name": "HKS 54 N",
+      "components": [
+        85,
+        0,
+        65,
+        0
+      ]
+    },
+    {
+      "name": "HKS 55 N",
+      "components": [
+        100,
+        0,
+        65,
+        0
+      ]
+    },
+    {
+      "name": "HKS 56 N",
+      "components": [
+        100,
+        0,
+        55,
+        20
+      ]
+    },
+    {
+      "name": "HKS 57 N",
+      "components": [
+        80,
+        0,
+        70,
+        0
+      ]
+    },
+    {
+      "name": "HKS 58 N",
+      "components": [
+        85,
+        0,
+        85,
+        20
+      ]
+    },
+    {
+      "name": "HKS 59 N",
+      "components": [
+        100,
+        0,
+        40,
+        0
+      ]
+    },
+    {
+      "name": "HKS 60 N",
+      "components": [
+        60,
+        0,
+        90,
+        0
+      ]
+    },
+    {
+      "name": "HKS 61 N",
+      "components": [
+        60,
+        0,
+        90,
+        35
+      ]
+    },
+    {
+      "name": "HKS 62 N",
+      "components": [
+        10,
+        0,
+        70,
+        35
+      ]
+    },
+    {
+      "name": "HKS 63 N",
+      "components": [
+        55,
+        0,
+        90,
+        10
+      ]
+    },
+    {
+      "name": "HKS 64 N",
+      "components": [
+        65,
+        0,
+        80,
+        0
+      ]
+    },
+    {
+      "name": "HKS 65 N",
+      "components": [
+        45,
+        0,
+        75,
+        0
+      ]
+    },
+    {
+      "name": "HKS 66 N",
+      "components": [
+        40,
+        0,
+        90,
+        0
+      ]
+    },
+    {
+      "name": "HKS 67 N",
+      "components": [
+        40,
+        0,
+        100,
+        0
+      ]
+    },
+    {
+      "name": "HKS 68 N",
+      "components": [
+        20,
+        7,
+        100,
+        0
+      ]
+    },
+    {
+      "name": "HKS 69 N",
+      "components": [
+        10,
+        0,
+        100,
+        0
+      ]
+    },
+    {
+      "name": "HKS 71 N",
+      "components": [
+        0,
+        25,
+        100,
+        0
+      ]
+    },
+    {
+      "name": "HKS 72 N",
+      "components": [
+        0,
+        30,
+        100,
+        2
+      ]
+    },
+    {
+      "name": "HKS 73 N",
+      "components": [
+        20,
+        40,
+        100,
+        0
+      ]
+    },
+    {
+      "name": "HKS 74 N",
+      "components": [
+        0,
+        30,
+        100,
+        25
+      ]
+    },
+    {
+      "name": "HKS 75 N",
+      "components": [
+        10,
+        30,
+        80,
+        30
+      ]
+    },
+    {
+      "name": "HKS 76 N",
+      "components": [
+        10,
+        40,
+        80,
+        50
+      ]
+    },
+    {
+      "name": "HKS 77 N",
+      "components": [
+        0,
+        50,
+        90,
+        50
+      ]
+    },
+    {
+      "name": "HKS 78 N",
+      "components": [
+        0,
+        55,
+        80,
+        30
+      ]
+    },
+    {
+      "name": "HKS 81 N",
+      "components": [
+        0,
+        55,
+        100,
+        0
+      ]
+    },
+    {
+      "name": "HKS 82 N",
+      "components": [
+        0,
+        65,
+        100,
+        5
+      ]
+    },
+    {
+      "name": "HKS 83 N",
+      "components": [
+        0,
+        70,
+        90,
+        30
+      ]
+    },
+    {
+      "name": "HKS 84 N",
+      "components": [
+        0,
+        70,
+        85,
+        40
+      ]
+    },
+    {
+      "name": "HKS 88 N",
+      "components": [
+        0,
+        0,
+        0,
+        100
+      ]
+    },
+    {
+      "name": "HKS 89 N",
+      "components": [
+        0,
+        5,
+        30,
+        30
+      ]
+    },
+    {
+      "name": "HKS 90 N",
+      "components": [
+        0,
+        20,
+        20,
+        85
+      ]
+    },
+    {
+      "name": "HKS 91 N",
+      "components": [
+        15,
+        0,
+        15,
+        30
+      ]
+    },
+    {
+      "name": "HKS 92 N",
+      "components": [
+        10,
+        0,
+        10,
+        50
+      ]
+    },
+    {
+      "name": "HKS 93 N",
+      "components": [
+        35,
+        0,
+        10,
+        60
+      ]
+    },
+    {
+      "name": "HKS 95 N",
+      "components": [
+        0,
+        0,
+        20,
+        40
+      ]
+    },
+    {
+      "name": "HKS 96 N",
+      "components": [
+        10,
+        3,
+        20,
+        40
+      ]
+    },
+    {
+      "name": "HKS 97 N",
+      "components": [
+        15,
+        0,
+        25,
+        95
+      ]
+    }
+  ]
+}

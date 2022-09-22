@@ -1,0 +1,891 @@
+{
+  "version": 1,
+  "title": "BAE8E117-B7D8-4A56-A541-B0E12F9A6759.acb",
+  "prefix": "PANTONE ",
+  "colorCount": 110,
+  "colorSpace": "LAB",
+  "channels": 3,
+  "isSpot": true,
+  "records": [
+    {
+      "name": "PANTONE 1Y01 SP",
+      "components": [
+        73,
+        8,
+        14
+      ]
+    },
+    {
+      "name": "PANTONE 2Y01 SP",
+      "components": [
+        73,
+        11,
+        14
+      ]
+    },
+    {
+      "name": "PANTONE 3Y01 SP",
+      "components": [
+        72,
+        10,
+        15
+      ]
+    },
+    {
+      "name": "PANTONE 4Y01 SP",
+      "components": [
+        73,
+        10,
+        16
+      ]
+    },
+    {
+      "name": "PANTONE 5Y01 SP",
+      "components": [
+        73,
+        9,
+        16
+      ]
+    },
+    {
+      "name": "PANTONE 1Y02 SP",
+      "components": [
+        72,
+        9,
+        15
+      ]
+    },
+    {
+      "name": "PANTONE 2Y02 SP",
+      "components": [
+        72,
+        10,
+        14
+      ]
+    },
+    {
+      "name": "PANTONE 3Y02 SP",
+      "components": [
+        72,
+        10,
+        15
+      ]
+    },
+    {
+      "name": "PANTONE 4Y02 SP",
+      "components": [
+        71,
+        9,
+        16
+      ]
+    },
+    {
+      "name": "PANTONE 5Y02 SP",
+      "components": [
+        71,
+        8,
+        16
+      ]
+    },
+    {
+      "name": "PANTONE 1R02 SP",
+      "components": [
+        71,
+        10,
+        14
+      ]
+    },
+    {
+      "name": "PANTONE 1Y03 SP",
+      "components": [
+        70,
+        10,
+        15
+      ]
+    },
+    {
+      "name": "PANTONE 2Y03 SP",
+      "components": [
+        71,
+        11,
+        15
+      ]
+    },
+    {
+      "name": "PANTONE 3Y03 SP",
+      "components": [
+        71,
+        10,
+        15
+      ]
+    },
+    {
+      "name": "PANTONE 4Y03 SP",
+      "components": [
+        71,
+        10,
+        15
+      ]
+    },
+    {
+      "name": "PANTONE 5Y03 SP",
+      "components": [
+        71,
+        9,
+        16
+      ]
+    },
+    {
+      "name": "PANTONE 1R03 SP",
+      "components": [
+        71,
+        10,
+        14
+      ]
+    },
+    {
+      "name": "PANTONE 2R03 SP",
+      "components": [
+        71,
+        13,
+        13
+      ]
+    },
+    {
+      "name": "PANTONE 1Y04 SP",
+      "components": [
+        69,
+        9,
+        15
+      ]
+    },
+    {
+      "name": "PANTONE 2Y04 SP",
+      "components": [
+        69,
+        11,
+        15
+      ]
+    },
+    {
+      "name": "PANTONE 3Y04 SP",
+      "components": [
+        69,
+        10,
+        14
+      ]
+    },
+    {
+      "name": "PANTONE 4Y04 SP",
+      "components": [
+        69,
+        9,
+        16
+      ]
+    },
+    {
+      "name": "PANTONE 5Y04 SP",
+      "components": [
+        69,
+        9,
+        16
+      ]
+    },
+    {
+      "name": "PANTONE 1R04 SP",
+      "components": [
+        69,
+        10,
+        15
+      ]
+    },
+    {
+      "name": "PANTONE 2R04 SP",
+      "components": [
+        69,
+        13,
+        13
+      ]
+    },
+    {
+      "name": "PANTONE 3R04 SP",
+      "components": [
+        69,
+        14,
+        11
+      ]
+    },
+    {
+      "name": "PANTONE 4R04 SP",
+      "components": [
+        69,
+        14,
+        10
+      ]
+    },
+    {
+      "name": "PANTONE 5R04 SP",
+      "components": [
+        69,
+        15,
+        10
+      ]
+    },
+    {
+      "name": "PANTONE 1Y05 SP",
+      "components": [
+        67,
+        11,
+        17
+      ]
+    },
+    {
+      "name": "PANTONE 2Y05 SP",
+      "components": [
+        67,
+        11,
+        16
+      ]
+    },
+    {
+      "name": "PANTONE 3Y05 SP",
+      "components": [
+        67,
+        11,
+        15
+      ]
+    },
+    {
+      "name": "PANTONE 4Y05 SP",
+      "components": [
+        67,
+        10,
+        16
+      ]
+    },
+    {
+      "name": "PANTONE 5Y05 SP",
+      "components": [
+        68,
+        9,
+        16
+      ]
+    },
+    {
+      "name": "PANTONE 1R05 SP",
+      "components": [
+        68,
+        10,
+        15
+      ]
+    },
+    {
+      "name": "PANTONE 2R05 SP",
+      "components": [
+        67,
+        13,
+        14
+      ]
+    },
+    {
+      "name": "PANTONE 3R05 SP",
+      "components": [
+        67,
+        15,
+        13
+      ]
+    },
+    {
+      "name": "PANTONE 4R05 SP",
+      "components": [
+        67,
+        16,
+        12
+      ]
+    },
+    {
+      "name": "PANTONE 5R05 SP",
+      "components": [
+        67,
+        16,
+        11
+      ]
+    },
+    {
+      "name": "PANTONE 1Y06 SP",
+      "components": [
+        65,
+        12,
+        17
+      ]
+    },
+    {
+      "name": "PANTONE 2Y06 SP",
+      "components": [
+        66,
+        12,
+        17
+      ]
+    },
+    {
+      "name": "PANTONE 3Y06 SP",
+      "components": [
+        66,
+        11,
+        16
+      ]
+    },
+    {
+      "name": "PANTONE 4Y06 SP",
+      "components": [
+        66,
+        10,
+        17
+      ]
+    },
+    {
+      "name": "PANTONE 5Y06 SP",
+      "components": [
+        66,
+        9,
+        18
+      ]
+    },
+    {
+      "name": "PANTONE 1R06 SP",
+      "components": [
+        66,
+        11,
+        16
+      ]
+    },
+    {
+      "name": "PANTONE 2R06 SP",
+      "components": [
+        65,
+        14,
+        15
+      ]
+    },
+    {
+      "name": "PANTONE 3R06 SP",
+      "components": [
+        66,
+        16,
+        14
+      ]
+    },
+    {
+      "name": "PANTONE 4R06 SP",
+      "components": [
+        65,
+        17,
+        13
+      ]
+    },
+    {
+      "name": "PANTONE 5R06 SP",
+      "components": [
+        66,
+        17,
+        11
+      ]
+    },
+    {
+      "name": "PANTONE 1Y07 SP",
+      "components": [
+        64,
+        11,
+        18
+      ]
+    },
+    {
+      "name": "PANTONE 2Y07 SP",
+      "components": [
+        64,
+        12,
+        17
+      ]
+    },
+    {
+      "name": "PANTONE 3Y07 SP",
+      "components": [
+        63,
+        12,
+        19
+      ]
+    },
+    {
+      "name": "PANTONE 4Y07 SP",
+      "components": [
+        63,
+        11,
+        19
+      ]
+    },
+    {
+      "name": "PANTONE 5Y07 SP",
+      "components": [
+        63,
+        10,
+        19
+      ]
+    },
+    {
+      "name": "PANTONE 1R07 SP",
+      "components": [
+        64,
+        12,
+        18
+      ]
+    },
+    {
+      "name": "PANTONE 2R07 SP",
+      "components": [
+        62,
+        15,
+        15
+      ]
+    },
+    {
+      "name": "PANTONE 3R07 SP",
+      "components": [
+        63,
+        17,
+        14
+      ]
+    },
+    {
+      "name": "PANTONE 4R07 SP",
+      "components": [
+        63,
+        18,
+        14
+      ]
+    },
+    {
+      "name": "PANTONE 5R07 SP",
+      "components": [
+        64,
+        18,
+        13
+      ]
+    },
+    {
+      "name": "PANTONE 1Y08 SP",
+      "components": [
+        60,
+        14,
+        21
+      ]
+    },
+    {
+      "name": "PANTONE 2Y08 SP",
+      "components": [
+        60,
+        14,
+        19
+      ]
+    },
+    {
+      "name": "PANTONE 3Y08 SP",
+      "components": [
+        60,
+        13,
+        20
+      ]
+    },
+    {
+      "name": "PANTONE 4Y08 SP",
+      "components": [
+        60,
+        11,
+        20
+      ]
+    },
+    {
+      "name": "PANTONE 5Y08 SP",
+      "components": [
+        60,
+        10,
+        20
+      ]
+    },
+    {
+      "name": "PANTONE 1R08 SP",
+      "components": [
+        60,
+        15,
+        21
+      ]
+    },
+    {
+      "name": "PANTONE 2R08 SP",
+      "components": [
+        60,
+        16,
+        18
+      ]
+    },
+    {
+      "name": "PANTONE 3R08 SP",
+      "components": [
+        60,
+        18,
+        15
+      ]
+    },
+    {
+      "name": "PANTONE 4R08 SP",
+      "components": [
+        60,
+        19,
+        14
+      ]
+    },
+    {
+      "name": "PANTONE 1Y09 SP",
+      "components": [
+        57,
+        14,
+        21
+      ]
+    },
+    {
+      "name": "PANTONE 2Y09 SP",
+      "components": [
+        58,
+        14,
+        20
+      ]
+    },
+    {
+      "name": "PANTONE 3Y09 SP",
+      "components": [
+        57,
+        12,
+        20
+      ]
+    },
+    {
+      "name": "PANTONE 4Y09 SP",
+      "components": [
+        57,
+        12,
+        21
+      ]
+    },
+    {
+      "name": "PANTONE 5Y09 SP",
+      "components": [
+        57,
+        11,
+        21
+      ]
+    },
+    {
+      "name": "PANTONE 1R09 SP",
+      "components": [
+        58,
+        14,
+        21
+      ]
+    },
+    {
+      "name": "PANTONE 2R09 SP",
+      "components": [
+        57,
+        17,
+        19
+      ]
+    },
+    {
+      "name": "PANTONE 3R09 SP",
+      "components": [
+        58,
+        18,
+        17
+      ]
+    },
+    {
+      "name": "PANTONE 4R09 SP",
+      "components": [
+        58,
+        19,
+        14
+      ]
+    },
+    {
+      "name": "PANTONE 1Y10 SP",
+      "components": [
+        54,
+        15,
+        22
+      ]
+    },
+    {
+      "name": "PANTONE 2Y10 SP",
+      "components": [
+        54,
+        14,
+        20
+      ]
+    },
+    {
+      "name": "PANTONE 3Y10 SP",
+      "components": [
+        53,
+        12,
+        20
+      ]
+    },
+    {
+      "name": "PANTONE 4Y10 SP",
+      "components": [
+        54,
+        11,
+        20
+      ]
+    },
+    {
+      "name": "PANTONE 1R10 SP",
+      "components": [
+        54,
+        15,
+        22
+      ]
+    },
+    {
+      "name": "PANTONE 2R10 SP",
+      "components": [
+        54,
+        18,
+        20
+      ]
+    },
+    {
+      "name": "PANTONE 3R10 SP",
+      "components": [
+        54,
+        20,
+        18
+      ]
+    },
+    {
+      "name": "PANTONE 1Y11 SP",
+      "components": [
+        49,
+        14,
+        22
+      ]
+    },
+    {
+      "name": "PANTONE 2Y11 SP",
+      "components": [
+        51,
+        15,
+        21
+      ]
+    },
+    {
+      "name": "PANTONE 3Y11 SP",
+      "components": [
+        50,
+        12,
+        20
+      ]
+    },
+    {
+      "name": "PANTONE 4Y11 SP",
+      "components": [
+        50,
+        10,
+        20
+      ]
+    },
+    {
+      "name": "PANTONE 1R11 SP",
+      "components": [
+        50,
+        15,
+        22
+      ]
+    },
+    {
+      "name": "PANTONE 2R11 SP",
+      "components": [
+        50,
+        18,
+        20
+      ]
+    },
+    {
+      "name": "PANTONE 3R11 SP",
+      "components": [
+        50,
+        19,
+        18
+      ]
+    },
+    {
+      "name": "PANTONE 1Y12 SP",
+      "components": [
+        45,
+        14,
+        20
+      ]
+    },
+    {
+      "name": "PANTONE 2Y12 SP",
+      "components": [
+        45,
+        14,
+        19
+      ]
+    },
+    {
+      "name": "PANTONE 3Y12 SP",
+      "components": [
+        45,
+        12,
+        20
+      ]
+    },
+    {
+      "name": "PANTONE 1R12 SP",
+      "components": [
+        44,
+        14,
+        20
+      ]
+    },
+    {
+      "name": "PANTONE 2R12 SP",
+      "components": [
+        45,
+        17,
+        18
+      ]
+    },
+    {
+      "name": "PANTONE 3R12 SP",
+      "components": [
+        45,
+        17,
+        17
+      ]
+    },
+    {
+      "name": "PANTONE 1Y13 SP",
+      "components": [
+        40,
+        12,
+        18
+      ]
+    },
+    {
+      "name": "PANTONE 2Y13 SP",
+      "components": [
+        41,
+        12,
+        16
+      ]
+    },
+    {
+      "name": "PANTONE 1R13 SP",
+      "components": [
+        40,
+        12,
+        17
+      ]
+    },
+    {
+      "name": "PANTONE 2R13 SP",
+      "components": [
+        40,
+        14,
+        15
+      ]
+    },
+    {
+      "name": "PANTONE 3R13 SP",
+      "components": [
+        39,
+        14,
+        15
+      ]
+    },
+    {
+      "name": "PANTONE 1Y14 SP",
+      "components": [
+        35,
+        9,
+        13
+      ]
+    },
+    {
+      "name": "PANTONE 1R14 SP",
+      "components": [
+        34,
+        9,
+        13
+      ]
+    },
+    {
+      "name": "PANTONE 2R14 SP",
+      "components": [
+        34,
+        9,
+        11
+      ]
+    },
+    {
+      "name": "PANTONE 3R14 SP",
+      "components": [
+        35,
+        11,
+        11
+      ]
+    },
+    {
+      "name": "PANTONE 4R14 SP",
+      "components": [
+        33,
+        11,
+        10
+      ]
+    },
+    {
+      "name": "PANTONE 1R15 SP",
+      "components": [
+        30,
+        6,
+        9
+      ]
+    },
+    {
+      "name": "PANTONE 2R15 SP",
+      "components": [
+        29,
+        5,
+        8
+      ]
+    },
+    {
+      "name": "PANTONE 3R15 SP",
+      "components": [
+        30,
+        6,
+        8
+      ]
+    },
+    {
+      "name": "PANTONE 4R15 SP",
+      "components": [
+        29,
+        7,
+        8
+      ]
+    }
+  ]
+}

@@ -1,0 +1,725 @@
+{
+  "version": 1,
+  "title": "HKS E",
+  "prefix": "HKS ",
+  "colorCount": 88,
+  "colorSpace": "LAB",
+  "channels": 3,
+  "isSpot": true,
+  "records": [
+    {
+      "name": "HKS 1 E",
+      "components": [
+        87,
+        4,
+        59
+      ]
+    },
+    {
+      "name": "HKS 2 E",
+      "components": [
+        86,
+        -4,
+        78
+      ]
+    },
+    {
+      "name": "HKS 3 E",
+      "components": [
+        87,
+        0,
+        82
+      ]
+    },
+    {
+      "name": "HKS 4 E",
+      "components": [
+        83,
+        12,
+        78
+      ]
+    },
+    {
+      "name": "HKS 5 E",
+      "components": [
+        82,
+        16,
+        73
+      ]
+    },
+    {
+      "name": "HKS 6 E",
+      "components": [
+        76,
+        31,
+        66
+      ]
+    },
+    {
+      "name": "HKS 7 E",
+      "components": [
+        69,
+        47,
+        59
+      ]
+    },
+    {
+      "name": "HKS 207 E",
+      "components": [
+        71,
+        44,
+        60
+      ]
+    },
+    {
+      "name": "HKS 8 E",
+      "components": [
+        66,
+        52,
+        54
+      ]
+    },
+    {
+      "name": "HKS 10 E",
+      "components": [
+        64,
+        55,
+        50
+      ]
+    },
+    {
+      "name": "HKS 11 E",
+      "components": [
+        75,
+        37,
+        33
+      ]
+    },
+    {
+      "name": "HKS 12 E",
+      "components": [
+        60,
+        56,
+        42
+      ]
+    },
+    {
+      "name": "HKS 13 E",
+      "components": [
+        60,
+        60,
+        40
+      ]
+    },
+    {
+      "name": "HKS 14 E",
+      "components": [
+        56,
+        58,
+        37
+      ]
+    },
+    null,
+    {
+      "name": "HKS 15 E",
+      "components": [
+        55,
+        61,
+        26
+      ]
+    },
+    {
+      "name": "HKS 16 E",
+      "components": [
+        51,
+        41,
+        20
+      ]
+    },
+    {
+      "name": "HKS 17 E",
+      "components": [
+        51,
+        48,
+        14
+      ]
+    },
+    {
+      "name": "HKS 18 E",
+      "components": [
+        45,
+        39,
+        10
+      ]
+    },
+    null,
+    {
+      "name": "HKS 21 E",
+      "components": [
+        71,
+        46,
+        12
+      ]
+    },
+    {
+      "name": "HKS 22 E",
+      "components": [
+        60,
+        60,
+        40
+      ]
+    },
+    {
+      "name": "HKS 23 E",
+      "components": [
+        56,
+        60,
+        27
+      ]
+    },
+    {
+      "name": "HKS 24 E",
+      "components": [
+        55,
+        58,
+        14
+      ]
+    },
+    {
+      "name": "HKS 25 E",
+      "components": [
+        53,
+        59,
+        4
+      ]
+    },
+    {
+      "name": "HKS 26 E",
+      "components": [
+        53,
+        58,
+        -3
+      ]
+    },
+    {
+      "name": "HKS 27 E",
+      "components": [
+        53,
+        66,
+        -7
+      ]
+    },
+    {
+      "name": "HKS 28 E",
+      "components": [
+        50,
+        51,
+        10
+      ]
+    },
+    {
+      "name": "HKS 29 E",
+      "components": [
+        46,
+        54,
+        -26
+      ]
+    },
+    null,
+    {
+      "name": "HKS 31 E",
+      "components": [
+        51,
+        60,
+        -10
+      ]
+    },
+    {
+      "name": "HKS 32 E",
+      "components": [
+        53,
+        64,
+        0
+      ]
+    },
+    {
+      "name": "HKS 33 E",
+      "components": [
+        46,
+        54,
+        -34
+      ]
+    },
+    {
+      "name": "HKS 34 E",
+      "components": [
+        42,
+        37,
+        -39
+      ]
+    },
+    {
+      "name": "HKS 35 E",
+      "components": [
+        38,
+        18,
+        -39
+      ]
+    },
+    {
+      "name": "HKS 36 E",
+      "components": [
+        42,
+        29,
+        -41
+      ]
+    },
+    {
+      "name": "HKS 37 E",
+      "components": [
+        39,
+        23,
+        -31
+      ]
+    },
+    {
+      "name": "HKS 38 E",
+      "components": [
+        40,
+        0,
+        -15
+      ]
+    },
+    {
+      "name": "HKS 39 E",
+      "components": [
+        51,
+        -5,
+        -48
+      ]
+    },
+    {
+      "name": "HKS 40 E",
+      "components": [
+        54,
+        -23,
+        -30
+      ]
+    },
+    {
+      "name": "HKS 41 E",
+      "components": [
+        39,
+        -1,
+        -18
+      ]
+    },
+    {
+      "name": "HKS 42 E",
+      "components": [
+        45,
+        4,
+        -40
+      ]
+    },
+    {
+      "name": "HKS 43 E",
+      "components": [
+        42,
+        13,
+        -53
+      ]
+    },
+    {
+      "name": "HKS 243 E",
+      "components": [
+        44,
+        1,
+        -49
+      ]
+    },
+    {
+      "name": "HKS 44 E",
+      "components": [
+        49,
+        -9,
+        -43
+      ]
+    },
+    {
+      "name": "HKS 45 E",
+      "components": [
+        43,
+        10,
+        -37
+      ]
+    },
+    {
+      "name": "HKS 46 E",
+      "components": [
+        54,
+        -19,
+        -31
+      ]
+    },
+    {
+      "name": "HKS 47 E",
+      "components": [
+        54,
+        -24,
+        -44
+      ]
+    },
+    {
+      "name": "HKS 48 E",
+      "components": [
+        55,
+        -32,
+        -34
+      ]
+    },
+    {
+      "name": "HKS 49 E",
+      "components": [
+        56,
+        -27,
+        -37
+      ]
+    },
+    {
+      "name": "HKS 50 E",
+      "components": [
+        67,
+        -30,
+        -29
+      ]
+    },
+    {
+      "name": "HKS 51 E",
+      "components": [
+        57,
+        -38,
+        -18
+      ]
+    },
+    {
+      "name": "HKS 52 E",
+      "components": [
+        56,
+        -42,
+        -5
+      ]
+    },
+    {
+      "name": "HKS 53 E",
+      "components": [
+        65,
+        -53,
+        -1
+      ]
+    },
+    {
+      "name": "HKS 54 E",
+      "components": [
+        57,
+        -46,
+        10
+      ]
+    },
+    {
+      "name": "HKS 55 E",
+      "components": [
+        54,
+        -39,
+        3
+      ]
+    },
+    {
+      "name": "HKS 56 E",
+      "components": [
+        50,
+        -27,
+        0
+      ]
+    },
+    {
+      "name": "HKS 57 E",
+      "components": [
+        58,
+        -43,
+        17
+      ]
+    },
+    {
+      "name": "HKS 58 E",
+      "components": [
+        51,
+        -20,
+        13
+      ]
+    },
+    {
+      "name": "HKS 59 E",
+      "components": [
+        55,
+        -41,
+        -15
+      ]
+    },
+    {
+      "name": "HKS 60 E",
+      "components": [
+        62,
+        -39,
+        35
+      ]
+    },
+    {
+      "name": "HKS 61 E",
+      "components": [
+        48,
+        -16,
+        13
+      ]
+    },
+    {
+      "name": "HKS 62 E",
+      "components": [
+        55,
+        -6,
+        29
+      ]
+    },
+    {
+      "name": "HKS 63 E",
+      "components": [
+        56,
+        -22,
+        24
+      ]
+    },
+    {
+      "name": "HKS 64 E",
+      "components": [
+        63,
+        -45,
+        34
+      ]
+    },
+    {
+      "name": "HKS 65 E",
+      "components": [
+        67,
+        -45,
+        42
+      ]
+    },
+    {
+      "name": "HKS 66 E",
+      "components": [
+        74,
+        -38,
+        54
+      ]
+    },
+    {
+      "name": "HKS 67 E",
+      "components": [
+        74,
+        -37,
+        55
+      ]
+    },
+    {
+      "name": "HKS 68 E",
+      "components": [
+        76,
+        -1,
+        63
+      ]
+    },
+    {
+      "name": "HKS 69 E",
+      "components": [
+        83,
+        -9,
+        69
+      ]
+    },
+    {
+      "name": "HKS 71 E",
+      "components": [
+        71,
+        17,
+        51
+      ]
+    },
+    {
+      "name": "HKS 72 E",
+      "components": [
+        68,
+        21,
+        50
+      ]
+    },
+    {
+      "name": "HKS 73 E",
+      "components": [
+        63,
+        15,
+        38
+      ]
+    },
+    {
+      "name": "HKS 74 E",
+      "components": [
+        53,
+        12,
+        31
+      ]
+    },
+    null,
+    {
+      "name": "HKS 75 E",
+      "components": [
+        53,
+        5,
+        30
+      ]
+    },
+    {
+      "name": "HKS 76 E",
+      "components": [
+        45,
+        7,
+        14
+      ]
+    },
+    {
+      "name": "HKS 77 E",
+      "components": [
+        47,
+        11,
+        14
+      ]
+    },
+    {
+      "name": "HKS 78 E",
+      "components": [
+        48,
+        20,
+        20
+      ]
+    },
+    null,
+    {
+      "name": "HKS 81 E",
+      "components": [
+        59,
+        37,
+        41
+      ]
+    },
+    {
+      "name": "HKS 82 E",
+      "components": [
+        53,
+        31,
+        31
+      ]
+    },
+    {
+      "name": "HKS 83 E",
+      "components": [
+        49,
+        24,
+        17
+      ]
+    },
+    null,
+    null,
+    {
+      "name": "HKS 84 E",
+      "components": [
+        43,
+        16,
+        11
+      ]
+    },
+    {
+      "name": "HKS 88 E",
+      "components": [
+        34,
+        2,
+        3
+      ]
+    },
+    {
+      "name": "HKS 89 E",
+      "components": [
+        69,
+        2,
+        10
+      ]
+    },
+    null,
+    null,
+    {
+      "name": "HKS 90 E",
+      "components": [
+        39,
+        3,
+        6
+      ]
+    },
+    {
+      "name": "HKS 91 E",
+      "components": [
+        67,
+        -4,
+        1
+      ]
+    },
+    {
+      "name": "HKS 92 E",
+      "components": [
+        50,
+        -1,
+        0
+      ]
+    },
+    {
+      "name": "HKS 93 E",
+      "components": [
+        39,
+        -1,
+        -4
+      ]
+    },
+    null,
+    {
+      "name": "HKS 95 E",
+      "components": [
+        62,
+        -1,
+        5
+      ]
+    },
+    {
+      "name": "HKS 96 E",
+      "components": [
+        53,
+        0,
+        4
+      ]
+    },
+    {
+      "name": "HKS 97 E",
+      "components": [
+        36,
+        -1,
+        2
+      ]
+    }
+  ]
+}
