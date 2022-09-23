@@ -26,4 +26,4 @@ Please refer to http://magnetiq.com/pages/acb-spec/.
 
 ## Adobe Color Books
 
-Since the details of the license for Adobe Color Books are unclear, it is very likely that is has limited rights. Due to this decided to remove all `.acb` files from this fork.
+Since the details of the license for Adobe Color Books are unclear, it is very likely that is has limited rights. Due to this IP I decided to remove all `.acb` files from this fork.
