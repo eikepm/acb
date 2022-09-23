@@ -1,3 +1,3 @@
 ## JSON
 
-JSON files will appear here.
+Converted `.json` files will magically appear here.
