@@ -1,4 +1,4 @@
-# Convert Adobe Color Book files (.acb) into JSON
+# Convert Adobe Color Book files (.acb) to JSON files
 
 ## Usage
 
